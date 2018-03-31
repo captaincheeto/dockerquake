@@ -1,1 +1,1 @@
-docker build -t dockerquake/i386jessie .
+docker build -t dockerquake2/i386jessie .
